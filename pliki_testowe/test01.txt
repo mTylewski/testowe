@@ -1,0 +1,6 @@
+#! /bin/bash
+
+Pierwsza_proba=TEST
+echo = $TEST
+exit 0
+
